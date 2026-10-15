@@ -3,7 +3,7 @@
 
   <!-- Unstop Campus Champions Banner -->
   <img
-    src="Banner_1.jpg"
+    src="https://github.com/shriram-02/shriram-02/blob/main/Banner_1.jpg?raw=true"
     width="100%"
     alt="Unstop Campus Champions Banner"
   />
