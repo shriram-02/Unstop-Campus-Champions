@@ -7,9 +7,7 @@
     width="100%"
     alt="Unstop Campus Champions Banner"
   />
-
   <br />
-
   <h1>🏆 Unstop Campus Champions Program</h1>
 
   <p>
